@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Starting now
+=======
+Start later
+>>>>>>> Start later
